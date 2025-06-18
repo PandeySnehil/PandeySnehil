@@ -18,7 +18,7 @@
 
 | Programming | Mobile | Blockchain | Tools | Others |
 |------------|--------|------------|-------|--------|
-| C, C++, Java, Python, Kotlin, Solidity | Android (Java/Kotlin) | Ethereum, Solana, IPFS, Metaplex, SPL Tokens | React, Git, GitHub, Firebase, MongoDB, Figma | ML, Data Analytics, UI/UX |
+| C, C++, Java, Python, Kotlin, Solidity | Android (Java/Kotlin) | Ethereum, Solana, IPFS, Metaplex, SPL Tokens | React, Git, GitHub, Firebase, MongoDB, Figma | Data Analytics, UI/UX |
 
 ---
 
